@@ -1,3 +1,5 @@
+## **Scaling and Load Balancing Your Architecture**
+
 ## **Overview**
 
 This lab demonstrates how to build a scalable, fault-tolerant AWS infrastructure by using Elastic Load Balancing (ELB) and Amazon EC2 Auto Scaling.
